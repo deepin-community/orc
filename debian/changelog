@@ -1,8 +1,8 @@
-orc (1:0.4.32-2) UNRELEASED; urgency=medium
+orc (1:0.4.32-2deepin1) unstable; urgency=medium
 
-  * update
+    fix CVE-2024-40897 
 
- -- Maintainers of GStreamer packages <orc@packages.debian.org>  Mon, 06 Jun 2022 19:25:49 +0800
+ -- zengwei <zengwei1@uniontech.com>  Thu, 29 Jan 2026 14:47:27 +0800
 
 orc (1:0.4.32-2) unstable; urgency=medium
 
